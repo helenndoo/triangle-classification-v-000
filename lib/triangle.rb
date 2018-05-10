@@ -29,5 +29,3 @@ class Triangle
     #triangle error code
   end
 end
-
-end
